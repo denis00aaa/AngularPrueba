@@ -1,0 +1,10 @@
+.header{
+    background-color: blue;
+    width: 100%;
+}
+.menu{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
